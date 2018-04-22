@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Davlis/hapijs-demo/issues"
   },
-  "homepage": "https://github.com/Davlis/hapijs-demo#readme"
+  "homepage": "https://github.com/Davlis/hapijs-demo#readme",
+  "dependencies": {
+    "hapi": "^17.3.1"
+  }
 }
